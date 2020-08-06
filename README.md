@@ -1,2 +1,2 @@
 # webbrwser
-this is a web browser that i learned from udemy tutorials
+<b>A basic web browser Using PyQt5</b>
